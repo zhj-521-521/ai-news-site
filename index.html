@@ -104,8 +104,8 @@
     font-size: 12px; color: var(--accent); opacity: .9;
     margin-bottom: 8px; font-style: italic;
   }
-  .hot-item .reason { font-size: 12px; margin-bottom: 10px; }
-  .flow .item .reason { font-size: 11.5px; margin-bottom: 7px; }
+  .hot-item .reason { font-size: 12.5px; margin-bottom: 12px; line-height: 1.65; }
+  .flow .item .reason { font-size: 12px; margin-bottom: 9px; line-height: 1.6; }
 
   /* 热度条（5 格可视化） */
   .hbar {
@@ -151,7 +151,7 @@
   }
 
   /* ===== 报纸正文 ===== */
-  .page { flex: 1; min-width: 0; padding: 0 30px 70px; }
+  .page { flex: 1; min-width: 0; padding: 0 38px 84px; }
 
   /* 报头 */
   .masthead { text-align: center; padding: 34px 0 26px; }
@@ -172,7 +172,7 @@
   /* lead 头条：整行大模块 */
   .lead {
     border-bottom: var(--rule-strong);
-    padding-bottom: 24px; margin-bottom: 22px;
+    padding-bottom: 32px; margin-bottom: 30px;
     position: relative;
   }
   .lead .label {
@@ -181,36 +181,37 @@
   }
   .lead h2 {
     font-family: var(--serif); font-weight: 700; line-height: 1.22;
-    font-size: clamp(26px, 3.6vw, 38px);
+    font-size: clamp(27px, 3.6vw, 40px);
+    line-height: 1.3;
     max-width: 46em;
   }
   .lead h2 a { color: inherit; text-decoration: none; }
   .lead h2 a:hover { color: var(--accent); }
   .lead .brief {
-    margin-top: 12px; font-size: 15.5px; line-height: 1.7;
+    margin-top: 14px; font-size: 16px; line-height: 1.8;
     color: var(--ink); opacity: .85; max-width: 52em;
   }
-  .lead .meta { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; font-size: 12.5px; color: var(--muted); }
+  .lead .meta { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 10px 20px; align-items: center; font-size: 12.5px; color: var(--muted); }
   .lead .src a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; }
   .lead .src a:hover { border-bottom-color: var(--accent); }
 
   /* 热点双栏：前2条（important） */
-  .hot-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0 40px; margin-bottom: 26px; }
-  .hot-item { padding: 20px 30px 20px 22px; border-left: 3px solid var(--accent); background: var(--bg-soft); position: relative; }
+  .hot-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0 52px; margin-bottom: 34px; }
+  .hot-item { padding: 28px 36px 26px 26px; border-left: 3px solid var(--accent); background: var(--bg-soft); position: relative; }
   .hot-item .rank {
     position: absolute; top: -1px; right: 12px;
     font-family: var(--serif); font-size: 40px; line-height: 1;
     color: var(--accent); opacity: .16; font-weight: 700;
   }
-  .hot-item .kicker { font-size: 11.5px; letter-spacing: .18em; color: var(--accent); font-weight: 600; margin-bottom: 8px; text-transform: uppercase; }
+  .hot-item .kicker { font-size: 12px; letter-spacing: .18em; color: var(--accent); font-weight: 600; margin-bottom: 10px; text-transform: uppercase; }
   .hot-item h2 {
     font-family: var(--serif); font-weight: 700; line-height: 1.3;
-    font-size: clamp(17px, 1.6vw, 20px); margin-bottom: 8px;
+    font-size: clamp(18px, 1.7vw, 21px); margin-bottom: 10px;
   }
   .hot-item h2 a { color: inherit; text-decoration: none; }
   .hot-item h2 a:hover { color: var(--accent); }
-  .hot-item .brief { font-size: 13.5px; color: var(--ink); opacity: .8; line-height: 1.65; margin-bottom: 10px; }
-  .hot-item .meta { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline; }
+  .hot-item .brief { font-size: 14.5px; color: var(--ink); opacity: .8; line-height: 1.75; margin-bottom: 12px; }
+  .hot-item .meta { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; }
   .hot-item .meta .src a { color: var(--ink); text-decoration: underline; text-underline-offset: 2px; }
   .hot-item .meta .src a:hover { color: var(--accent); }
 
@@ -218,7 +219,7 @@
   .section-head {
     font-size: 12px; letter-spacing: .3em; color: var(--muted);
     text-transform: uppercase; text-align: center;
-    padding: 18px 0 14px; border-top: var(--rule); position: relative;
+    padding: 26px 0 18px; border-top: var(--rule); position: relative;
   }
   .section-head::before, .section-head::after {
     content: ""; position: absolute; top: 50%; height: 1px; width: 28%;
@@ -226,15 +227,15 @@
   }
   .section-head::before { left: 4%; }
   .section-head::after { right: 4%; }
-  .flow { display: flex; flex-wrap: wrap; gap: 0; margin: 0 -11px; }
+  .flow { display: flex; flex-wrap: wrap; gap: 0; margin: 0 -14px; }
   .flow .item {
-    flex: 1 1 260px;
-    padding: 16px 11px 18px;
+    flex: 1 1 280px;
+    padding: 22px 14px 24px;
     border-top: var(--rule);
   }
   .flow .item .kicker {
-    font-size: 11px; letter-spacing: .16em; color: var(--accent);
-    font-weight: 600; margin-bottom: 6px; text-transform: uppercase;
+    font-size: 11.5px; letter-spacing: .16em; color: var(--accent);
+    font-weight: 600; margin-bottom: 8px; text-transform: uppercase;
     display: flex; align-items: center; gap: 6px;
   }
   .flow .item .kicker .hot-flag {
@@ -242,24 +243,24 @@
     padding: 1px 5px; letter-spacing: .04em; border-radius: 0;
   }
   .flow .item h2 {
-    font-family: var(--serif); font-weight: 700; line-height: 1.32;
-    font-size: 16.5px; margin-bottom: 6px;
+    font-family: var(--serif); font-weight: 700; line-height: 1.34;
+    font-size: 17.5px; margin-bottom: 9px;
   }
   .flow .item h2 a { color: inherit; text-decoration: none; }
   .flow .item h2 a:hover { color: var(--accent); }
-  .flow .item .brief { font-size: 13px; color: var(--ink); opacity: .78; line-height: 1.6; margin-bottom: 8px; }
-  .flow .item .meta { font-size: 11.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 10px; }
+  .flow .item .brief { font-size: 14px; color: var(--ink); opacity: .78; line-height: 1.72; margin-bottom: 11px; }
+  .flow .item .meta { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px 12px; }
   .flow .item .meta .src a { color: var(--ink); text-decoration: underline; text-underline-offset: 2px; }
   .flow .item .meta .src a:hover { color: var(--accent); }
 
   .empty { border-top: var(--rule); padding: 44px 0; color: var(--muted); }
   .error { border-top: var(--rule); padding: 30px 0; color: var(--accent); }
 
-  footer { margin-top: 44px; border-top: var(--rule); padding-top: 14px; font-size: 12px; color: var(--muted); }
+  footer { margin-top: 56px; border-top: var(--rule); padding-top: 16px; font-size: 12px; color: var(--muted); }
 
   @media (max-width: 640px) {
     .hot-row { grid-template-columns: 1fr; }
-    .page { padding: 0 18px 50px; }
+    .page { padding: 0 20px 60px; }
   }
 </style>
 </head>
