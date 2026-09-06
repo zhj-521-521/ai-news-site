@@ -20,6 +20,19 @@
     --rule-strong: 2px solid var(--ink);
     --sidebar-w: 240px;
   }
+  /* 深色模式：跟随系统（手机/电脑晚上阅读不刺眼） */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16150f;
+      --bg-soft: #1e1c15;
+      --ink: #ece7da;
+      --muted: #9a9384;
+      --accent: #d99a52;
+      --accent-soft: rgba(217, 154, 82, .14);
+      --rule: 1px solid rgba(236, 231, 218, .16);
+      --rule-strong: 2px solid var(--ink);
+    }
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html { -webkit-text-size-adjust: 100%; }
   body {
@@ -164,6 +177,13 @@
     color: var(--muted); text-transform: uppercase;
   }
   .masthead .issue-num { font-family: var(--serif); font-size: 13px; color: var(--accent); letter-spacing: .2em; display: block; margin-top: 8px; }
+  /* 今日速览：报头下一句话导读 */
+  .daily-brief {
+    border: 1px solid var(--rule); border-left: 3px solid var(--accent);
+    background: var(--bg-soft); padding: 14px 18px; margin: 0 0 26px;
+    font-size: 15px; line-height: 1.7; color: var(--ink);
+  }
+  .daily-brief .db-label { font-size: 11px; letter-spacing: .22em; color: var(--accent); font-weight: 600; display: block; margin-bottom: 6px; text-transform: uppercase; }
   .double-rule {
     border-top: var(--rule-strong); border-bottom: var(--rule);
     height: 5px; margin-bottom: 26px;
@@ -261,6 +281,9 @@
   @media (max-width: 640px) {
     .hot-row { grid-template-columns: 1fr; }
     .page { padding: 0 20px 60px; }
+    .lead h2 { font-size: 23px; }
+    .lead .brief { font-size: 15px; }
+    .daily-brief { font-size: 14px; padding: 12px 14px; }
   }
 </style>
 </head>
@@ -333,6 +356,11 @@
       dateline.textContent = d.toLocaleDateString("zh-CN", { year: "numeric", month: "long", day: "numeric" }) + " · " + "星期" + "日一二三四五六".charAt(d.getDay());
       issue.textContent = "第 " + Math.ceil((d - new Date(d.getFullYear(), 0, 1)) / 86400000) + " 期";
     }
+    var dailyBrief = "";
+    if (items && items.length && items[0] && items[0].dailyBrief !== undefined) {
+      dailyBrief = items[0].dailyBrief || "";
+      items = items.slice(1);
+    }
     if (!items || !items.length) {
       paper.innerHTML = '<div class="empty">这一天没有日报内容。</div>';
       return;
@@ -346,6 +374,9 @@
     buildHotBoard(items, dateKey ? false : true);
     // 按 heat 保持热度在前；页面保持 data.json 顺序（已在脚本端按热度排好）
     var html = "";
+    if (dailyBrief && !dateKey) {
+      html += '<div class="daily-brief"><span class="db-label">今日速览</span>' + esc(dailyBrief) + "</div>";
+    }
 
     // 1) lead 头条
     if (blocks.lead.length) {
