@@ -1,0 +1,167 @@
+[
+  {
+    "id": "2026-09-05-01",
+    "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+    "brief": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?ut…",
+    "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+    "category": "💰降价/调价",
+    "priority": "lead",
+    "sourceName": "InfoQ中文",
+    "sourceUrl": "https://infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE",
+    "reason": "开源生态动态，可上手/跟进"
+  },
+  {
+    "id": "2026-09-05-02",
+    "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+    "brief": "<p>OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGEN…",
+    "summary": "<p>OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。</p>\n<p>🔗 <a href=\"https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words\">阅读原文</a></p>\n<p>via AIHOT · <a href=\"https://aihot.virxa…",
+    "category": "🔥新模型发布",
+    "priority": "important",
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-03",
+    "title": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日",
+    "brief": "<p>IT之家 9 月 5 日消息，比亚迪旗下腾势品牌今日宣布，超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日。</p><p style=…",
+    "summary": "<p>IT之家 9 月 5 日消息，比亚迪旗下腾势品牌今日宣布，超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/38dda174-fb5b-4d05-98bd-e9d2ac1a2d3f.png?x-bce-process=image/format,f_auto\" /></p><p>在今年 5 月底的比亚迪“敢为”智能化战略发布会上，比亚迪发布了超级智能体“…",
+    "category": "🔥新模型发布",
+    "priority": "important",
+    "sourceName": "IT之家",
+    "sourceUrl": "https://ithome.com/0/998/815.htm",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-04",
+    "title": "微软发布 MAI-Image-2.6-Flash：生图速度是全球最佳 AI 模型的 2 倍",
+    "brief": "<p>IT之家 9 月 5 日消息，微软昨日（9 月 4 日）发布博文，宣布推出 MAI-Image-2.6-Flash 自研图像生成模型，并通过 Micros…",
+    "summary": "<p>IT之家 9 月 5 日消息，微软昨日（9 月 4 日）发布博文，宣布推出 MAI-Image-2.6-Flash 自研图像生成模型，并通过 Microsoft Foundry（微软模型开发平台）开放公开预览。</p><p>价格方面，MAI-Image-2.6-Flash 模型的 API 价格如下（按每 100 万 Token 计费）：</p><table><tbody><tr class=\"firstRow\"><th scope=\"col\">计费项</th><th scope=\"col\">MAI-Image-2.6-Flash 价格（美元 / 百万 Token）</th><th>MAI…",
+    "category": "💰降价/调价",
+    "priority": "normal",
+    "sourceName": "IT之家",
+    "sourceUrl": "https://ithome.com/0/998/747.htm",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-05",
+    "title": "早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
+    "brief": "· 千问办公上线一个月，用户突破 3000 万\n· 存储涨价推高手机成本，全球在售机型平均涨价约 15%\n· 大众汽车追加裁员计划，德国四座工厂将陆续停产<p>…",
+    "summary": "· 千问办公上线一个月，用户突破 3000 万\n· 存储涨价推高手机成本，全球在售机型平均涨价约 15%\n· 大众汽车追加裁员计划，德国四座工厂将陆续停产<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+    "category": "📄学术论文",
+    "priority": "normal",
+    "sourceName": "爱范儿",
+    "sourceUrl": "https://ifanr.com/1677342",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-06",
+    "title": "GPT-6 Astra 模型发布，OpenAI 总裁布罗克曼自信放话“欢迎来到 AGI 时代”",
+    "brief": "<p class=\"p1\">IT之家 9 月 5 日消息，据《商业内幕》报道，OpenAI 宣布，新推出的 Astra 模型已经达到 AI 行业最为追求的一个里…",
+    "summary": "<p class=\"p1\">IT之家 9 月 5 日消息，据《商业内幕》报道，OpenAI 宣布，新推出的 Astra 模型已经达到 AI 行业最为追求的一个里程碑。当地时间周四，OpenAI 总裁格雷格 · 布罗克曼在宣布 Astra 模型推出的媒体电话会议结束时自信喊话：“<strong>欢迎来到 AGI 时代</strong>。”</p><p class=\"p1\">OpenAI 将 AGI 定义为<strong>在大多数具有经济价值的工作中，表现超过人类的高度自主系统</strong>。在其看来，Astra 是一项重大研究突破，意味着人们能够交给 AI 完成的工作范围发生了变化。</p>…",
+    "category": "📄学术论文",
+    "priority": "normal",
+    "sourceName": "IT之家",
+    "sourceUrl": "https://ithome.com/0/998/833.htm",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-07",
+    "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+    "brief": "<p>GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速…",
+    "summary": "<p>GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。</p>\n<p>🔗 <a href=\"https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685905&amp;idx=1&amp;sn=2a6327daa3fb1d5573a824afd…",
+    "category": "🔥新模型发布",
+    "priority": "normal",
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+    "reason": "第三方/社区实测，参考价值高"
+  },
+  {
+    "id": "2026-09-05-08",
+    "title": "IT早报 0906：苹果 iPhone 18 Pro / Ultra 机模再曝光；曝华为新机防窥屏为独立像素驱动；Kimi、MiniMax 将天猫开店；全球首款家用 Wi-Fi8 路由器上市...",
+    "brief": "<p>“IT早报”时间，大家好，现在是 2026 年 9 月 6 日星期日，今天的重要科技资讯有：</p><h2>1. 苹果 iPhone 18 Pro / M…",
+    "summary": "<p>“IT早报”时间，大家好，现在是 2026 年 9 月 6 日星期日，今天的重要科技资讯有：</p><h2>1. 苹果 iPhone 18 Pro / Max、iPhone Ultra 机模再曝光</h2><p>科技媒体 AppleInsider 9 月 4 日发布博文，分享了一组来自手机壳厂商的机模照片，展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）。&gt;&gt; <a href=\"https://www.ithome.com/0/998/672.htm\" target=\"_blank\">…",
+    "category": "🔥新模型发布",
+    "priority": "normal",
+    "sourceName": "IT之家",
+    "sourceUrl": "https://ithome.com/0/998/861.htm",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-09",
+    "title": "吉利星越 L PLUS 首发亮相：定位中大型旗舰智混 SUV，近期上市",
+    "brief": "<p>IT之家 9 月 5 日消息，吉利全新车型 —— 星越 L PLUS 今天（5 日）晚间正式亮相，新车尺寸比现款星越 L 更大，并运用双拼色、大饼轮毂来强…",
+    "summary": "<p>IT之家 9 月 5 日消息，吉利全新车型 —— 星越 L PLUS 今天（5 日）晚间正式亮相，新车尺寸比现款星越 L 更大，并运用双拼色、大饼轮毂来强调豪华、精致的气息，将于<strong>近期正式上市</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/ab44d8a4-30b9-4b1e-940f-19a2bfebe294.jpg?x-bce-process=image/format,f_auto…",
+    "category": "🔥新模型发布",
+    "priority": "normal",
+    "sourceName": "IT之家",
+    "sourceUrl": "https://ithome.com/0/998/829.htm",
+    "reason": "行业动态，速览即可"
+  },
+  {
+    "id": "2026-09-05-10",
+    "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+    "brief": "<p>OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需…",
+    "summary": "<p>OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。</p>\n<p>🔗 <a href=\"https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident\">阅读原文</a></p>\n<p>via AIHOT · <a href=\"https://aihot.virxact.com/items/cmtoazuoz03z6roxh…",
+    "category": "🔥新模型发布",
+    "priority": "normal",
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-11",
+    "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+    "brief": "<p>OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6…",
+    "summary": "<p>OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。</p>\n<p>🔗 <a href=\"https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol\">阅读原文</a></p>\n<p>via AIHOT · <a href=\"http…",
+    "category": "🔥新模型发布",
+    "priority": "normal",
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+    "reason": "官方一手消息，可信度较高"
+  },
+  {
+    "id": "2026-09-05-12",
+    "title": "50.98 万元，新一代理想 MEGA 开启全国首批交付",
+    "brief": "<p>IT之家 9 月 5 日消息，理想汽车今日宣布，新一代理想 MEGA 正式迎来全国首批交付。<span class=\"surl-text\">理想汽车</s…",
+    "summary": "<p>IT之家 9 月 5 日消息，理想汽车今日宣布，新一代理想 MEGA 正式迎来全国首批交付。<span class=\"surl-text\">理想汽车</span>第一产品线负责人汤靖亲临现场，为首批车主完成新车交付。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/7d2c80b7-64e0-49c1-8b38-ed766807b39b.png\" /></p><p>IT之家注意到，新一代理想 Mega Home 于 9 …",
+    "category": "🔥新模型发布",
+    "priority": "normal",
+    "sourceName": "IT之家",
+    "sourceUrl": "https://ithome.com/0/998/754.htm",
+    "reason": "行业动态，速览即可"
+  },
+  {
+    "id": "2026-09-05-13",
+    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+    "brief": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "category": "📝社区讨论",
+    "priority": "normal",
+    "sourceName": "量子位(官方)",
+    "sourceUrl": "https://qbitai.com/2026/09/484649.html",
+    "reason": "行业动态，速览即可"
+  },
+  {
+    "id": "2026-09-05-14",
+    "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+    "brief": "<p>GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max…",
+    "summary": "<p>GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。</p>\n<p>🔗 <a href=\"https://x.com/testingcatalog/status/2096350628054176240\">阅读原文</a></p>\n<p>via AIHOT · <a href=\"https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii\">https://…",
+    "category": "📝社区讨论",
+    "priority": "normal",
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
+    "reason": "行业动态，速览即可"
+  },
+  {
+    "id": "2026-09-05-15",
+    "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+    "brief": "<p>OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共…",
+    "summary": "<p>OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。</p>\n<p>🔗 <a href=\"https://x.com/rohanpaul_ai/status/2096303922378088854\">阅读原文</a></p>\n<p>via AIHOT · <a href=\"https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8\">https://aihot.virxact.com/item…",
+    "category": "📝社区讨论",
+    "priority": "normal",
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
+    "reason": "行业动态，速览即可"
+  }
+]
