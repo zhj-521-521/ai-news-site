@@ -1,25 +1,25 @@
 [
   {
-    "dailyBrief": "今日最值得关注：🚀 2026 年 8 月 GitHub 十大热门项目排行榜 🔥 | AMD 开源 GPU 软件平台 ROCm 诞生十周年，ROCm 10.0 正式发布 | GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录"
+    "dailyBrief": "今日最值得关注：从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海 | AMD 开源 GPU 软件平台 ROCm 诞生十周年，ROCm 10.0 正式发布 | GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录"
   },
   {
     "id": "2026-09-08-01",
-    "title": "🚀 2026 年 8 月 GitHub 十大热门项目排行榜 🔥",
-    "brief": "2026年8月GitHub十大热门：Agent 正在从「会写一段代码」走向可复用的 Skill 资产 + 可治理的记忆/文档上下文 + 更贴近真实桌面与硬件工作…",
-    "summary": "2026年8月GitHub十大热门：Agent 正在从「会写一段代码」走向可复用的 Skill 资产 + 可治理的记忆/文档上下文 + 更贴近真实桌面与硬件工作流。（作者：一点一木）",
-    "category": "💻开源项目更新",
-    "section": "🚀 开源生态",
-    "reason": "网友围观中，讨论较热（热度 6.0）",
+    "title": "从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海",
+    "brief": "阿福 Agent 小队从 Harness 转向 Loop 方法，以持续处理线上不断出现的错误。",
+    "summary": "阿福 Agent 小队从 Harness 转向 Loop 方法，以持续处理线上不断出现的错误。",
+    "category": "📝社区讨论",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
     "priority": "lead",
-    "heat": 6.0,
-    "sourceName": "掘金热榜",
-    "sourceUrl": "https://juejin.cn/post/7680105138455855158"
+    "heat": 3.0,
+    "sourceName": "InfoQ中文",
+    "sourceUrl": "https://infoq.cn/article/5Xy6jTfq7Si98XvXAJCp"
   },
   {
     "id": "2026-09-08-02",
     "title": "AMD 开源 GPU 软件平台 ROCm 诞生十周年，ROCm 10.0 正式发布",
-    "brief": "AMD开源GPU计算平台ROCm成立十周年，发布新版本1",
-    "summary": "AMD开源GPU计算平台ROCm成立十周年，发布新版本1",
+    "brief": "十年后，AMD的开源GPU软件平台ROCm出了第10版，跳过了8和9，现在能跑各种AI模型。",
+    "summary": "十年后，AMD的开源GPU软件平台ROCm出了第10版，跳过了8和9，现在能跑各种AI模型。",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -31,8 +31,8 @@
   {
     "id": "2026-09-08-03",
     "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-    "brief": "GPT-6 Astra能操控Blender建模，Computer Use花4小时和100美刀才做出天坛，MCP更快但复杂任务易超时需拆解步骤。",
-    "summary": "GPT-6 Astra能操控Blender建模，Computer Use花4小时和100美刀才做出天坛，MCP更快但复杂任务易超时需拆解步骤。",
+    "brief": "GPT-6 Astra通过插件控制Blender建模，Computer Use耗时4小时花费近百美元，MCP更快但复杂任务需拆分步骤执行。",
+    "summary": "GPT-6 Astra通过插件控制Blender建模，Computer Use耗时4小时花费近百美元，MCP更快但复杂任务需拆分步骤执行。",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -44,8 +44,8 @@
   {
     "id": "2026-09-08-04",
     "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-    "brief": "北京用办公Agent的人最多，海外用户占了一成多。",
-    "summary": "北京用办公Agent的人最多，海外用户占了一成多。",
+    "brief": "报告显示，北京用得最多，海外用户超一成。",
+    "summary": "报告显示，北京用得最多，海外用户超一成。",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -56,22 +56,9 @@
   },
   {
     "id": "2026-09-08-05",
-    "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
-    "brief": "AWS开源了Kiro Crew工具，让代码代理可以并行处理任务。",
-    "summary": "AWS开源了Kiro Crew工具，让代码代理可以并行处理任务。",
-    "category": "💻开源项目更新",
-    "section": "🚀 开源生态",
-    "reason": "开源生态动态，可上手/跟进",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "InfoQ中文",
-    "sourceUrl": "https://infoq.cn/article/uTRvjxweSGdp2kzlhPiV"
-  },
-  {
-    "id": "2026-09-08-06",
     "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
-    "brief": "未来刚才来，它从何而来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "summary": "未来刚才来，它从何而来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "brief": "OpenAI称新模型GPT-6具备“外星思维”，但这只是技术进步的宣传，并非真正的人类水平智能。",
+    "summary": "OpenAI称新模型GPT-6具备“外星思维”，但这只是技术进步的宣传，并非真正的人类水平智能。",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -81,10 +68,10 @@
     "sourceUrl": "https://ifanr.com/1678637"
   },
   {
-    "id": "2026-09-08-07",
+    "id": "2026-09-08-06",
     "title": "微信 WeMM-Embedding 多模态模型已在微信大规模使用：覆盖朋友圈搜索等，每天调用量 10 亿次",
-    "brief": "微信已经用上了AI多模态模型来优化搜索等功能，每天被调用10亿次。",
-    "summary": "微信已经用上了AI多模态模型来优化搜索等功能，每天被调用10亿次。",
+    "brief": "微信的多模态AI模型已经在搜索等地方用起来了，每天被调用10亿次。",
+    "summary": "微信的多模态AI模型已经在搜索等地方用起来了，每天被调用10亿次。",
     "category": "💻开源项目更新",
     "section": "🚀 开源生态",
     "reason": "开源生态动态，可上手/跟进",
@@ -94,10 +81,10 @@
     "sourceUrl": "https://ithome.com/0/999/527.htm"
   },
   {
-    "id": "2026-09-08-08",
+    "id": "2026-09-08-07",
     "title": "Secure temporary file sharing for AI agents and humans",
-    "brief": "这个工具让AI程序和人类能安全地临时共享文件。",
-    "summary": "这个工具让AI程序和人类能安全地临时共享文件。",
+    "brief": "发布开源工具，实现AI代理与人类之间安全的临时文件共享，解决AI协作时的文件传输问题。",
+    "summary": "发布开源工具，实现AI代理与人类之间安全的临时文件共享，解决AI协作时的文件传输问题。",
     "category": "💻开源项目更新",
     "section": "🚀 开源生态",
     "reason": "开源生态动态，可上手/跟进",
@@ -107,7 +94,7 @@
     "sourceUrl": "https://github.com/aispace-sh/aispace-client"
   },
   {
-    "id": "2026-09-08-09",
+    "id": "2026-09-08-08",
     "title": "You Really Didn't Get That? Benchmarking Social Pragmatic Inference for Indirect and Playful Chinese Online Comments",
     "brief": "arXiv:2609.04384v1 Announce Type: new Abstract: Chinese online comments often co…",
     "summary": "arXiv:2609.04384v1 Announce Type: new Abstract: Chinese online comments often convey social meaning through indirect and playful language that is hard to interpret without context. Existing evaluations largely organize items around predefined phenomena or controlled pragmatic categories, leaving ope…",
@@ -120,7 +107,7 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04384"
   },
   {
-    "id": "2026-09-08-10",
+    "id": "2026-09-08-09",
     "title": "Training-Free Speech-Centric Omni Understanding with Frozen VLMs",
     "brief": "arXiv:2609.04242v1 Announce Type: cross Abstract: Audio-visual understanding rem…",
     "summary": "arXiv:2609.04242v1 Announce Type: cross Abstract: Audio-visual understanding remains challenging because models must jointly interpret spoken content, visual events, and their temporal relationships. Existing omni models typically introduce dedicated audio encoders and rely on expensive audio-video-…",
@@ -133,7 +120,7 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04242"
   },
   {
-    "id": "2026-09-08-11",
+    "id": "2026-09-08-10",
     "title": "Towards AI-Driven Nanomedicine Discovery: A Benchmark and Multimodal Learning Framework for Nano Self-Assembly Prediction",
     "brief": "arXiv:2609.04278v1 Announce Type: cross Abstract: Nano self-assembly organizes m…",
     "summary": "arXiv:2609.04278v1 Announce Type: cross Abstract: Nano self-assembly organizes molecular components into bioactive nanoscale structures. Self-assembled nanoparticles (NAPs) derived from Chinese herbal formulas and applications such as anti-lung-cancer therapy demonstrate the substantial potential of…",
@@ -146,7 +133,7 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04278"
   },
   {
-    "id": "2026-09-08-12",
+    "id": "2026-09-08-11",
     "title": "Training-Free Halving of Activated Experts in Fine-Grained Mixture-of-Experts Models",
     "brief": "arXiv:2609.04575v1 Announce Type: new Abstract: Modern fine-grained Mixture-of-E…",
     "summary": "arXiv:2609.04575v1 Announce Type: new Abstract: Modern fine-grained Mixture-of-Experts (MoE) models route each token to a small number of experts and renormalize their router probabilities. We show that this renormalization implicitly calibrates expert output gain to the training top-$k$: reducing $…",
@@ -159,20 +146,20 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04575"
   },
   {
-    "id": "2026-09-08-13",
-    "title": "从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海",
-    "brief": "阿福团队改进了线上问题的处理流程，从固定框架转向循环反馈机制。",
-    "summary": "阿福团队改进了线上问题的处理流程，从固定框架转向循环反馈机制。",
-    "category": "📝社区讨论",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
+    "id": "2026-09-08-12",
+    "title": "🚀 2026 年 6 月 GitHub 十大热门项目排行榜 🔥",
+    "brief": "欢迎来到 2026 年 6 月 GitHub 热门开源项目排行榜！聚焦 Agent 感知 + 技能市场 + 视频生产 + 代码智能 + 并行编排五大主线！（作者…",
+    "summary": "欢迎来到 2026 年 6 月 GitHub 热门开源项目排行榜！聚焦 Agent 感知 + 技能市场 + 视频生产 + 代码智能 + 并行编排五大主线！（作者：一点一木）",
+    "category": "💻开源项目更新",
+    "section": "🚀 开源生态",
+    "reason": "开源生态动态，可上手/跟进",
     "priority": "normal",
     "heat": 0.0,
-    "sourceName": "InfoQ中文",
-    "sourceUrl": "https://infoq.cn/article/5Xy6jTfq7Si98XvXAJCp"
+    "sourceName": "掘金热榜",
+    "sourceUrl": "https://juejin.cn/post/7657794899357761570"
   },
   {
-    "id": "2026-09-08-14",
+    "id": "2026-09-08-13",
     "title": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
     "brief": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
     "summary": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
@@ -185,7 +172,7 @@
     "sourceUrl": "https://infoq.cn/article/D5heSof43WbGMHrCCIsy"
   },
   {
-    "id": "2026-09-08-15",
+    "id": "2026-09-08-14",
     "title": "PetQA: Benchmarking Veterinary Knowledge and Clinical Reasoning",
     "brief": "arXiv:2609.04598v1 Announce Type: new Abstract: We introduce PetQA, a Korean lon…",
     "summary": "arXiv:2609.04598v1 Announce Type: new Abstract: We introduce PetQA, a Korean long-form question-answering (QA) benchmark for evaluating veterinary knowledge and clinical reasoning in large language models (LLMs) and large vision-language models (LVLMs). PetQA contains 10,076 text-only and 8,751 mult…",
@@ -198,7 +185,7 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04598"
   },
   {
-    "id": "2026-09-08-16",
+    "id": "2026-09-08-15",
     "title": "ConsensusBench: Benchmark of Consensus Nodes for LLM Reasoning via Outcome Reward Densifying",
     "brief": "arXiv:2609.04648v1 Announce Type: new Abstract: Reinforcement learning (RL) has …",
     "summary": "arXiv:2609.04648v1 Announce Type: new Abstract: Reinforcement learning (RL) has become one of the primary paradigms for reasoning enhancement of large language models (LLMs). In particular, Group Relative Policy Optimization (GRPO) and related algorithms have demonstrated strong performance with out…",
@@ -211,7 +198,7 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04648"
   },
   {
-    "id": "2026-09-08-17",
+    "id": "2026-09-08-16",
     "title": "MMTClinic: Multimodal, Multilingual Time Series Question Answering and Reasoning Benchmark for Clinical Domain",
     "brief": "arXiv:2609.04842v1 Announce Type: new Abstract: Time-series data in clinical set…",
     "summary": "arXiv:2609.04842v1 Announce Type: new Abstract: Time-series data in clinical settings is crucial for capturing dynamic changes in a patient's health over time, enabling timely diagnosis, personalized treatment, and early detection of critical events. However, the development of clinically reliable a…",
@@ -224,7 +211,7 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04842"
   },
   {
-    "id": "2026-09-08-18",
+    "id": "2026-09-08-17",
     "title": "Corporate-Family Resolution Is Not a String-Matching Problem: A Public Benchmark Stratified by Name Visibility",
     "brief": "arXiv:2609.04269v1 Announce Type: cross Abstract: Deciding whether two supplier …",
     "summary": "arXiv:2609.04269v1 Announce Type: cross Abstract: Deciding whether two supplier records belong to the same corporate family is a prerequisite for spend consolidation, credit exposure aggregation and sanctions screening. It is usually treated as entity matching, but the tasks differ: a family link co…",
@@ -237,7 +224,7 @@
     "sourceUrl": "https://arxiv.org/abs/2609.04269"
   },
   {
-    "id": "2026-09-08-19",
+    "id": "2026-09-08-18",
     "title": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾芯片｜AI周报",
     "brief": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾…",
     "summary": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾…",
@@ -250,7 +237,7 @@
     "sourceUrl": "https://infoq.cn/article/boiE7qfjxSQjHKUtevvp"
   },
   {
-    "id": "2026-09-08-20",
+    "id": "2026-09-08-19",
     "title": "Speculative Decoding in vLLM on AMD GPUs",
     "brief": "Article URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus Comme…",
     "summary": "Article URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus Comments URL: https://news.ycombinator.com/item?id=49596054 Points: 128 # Comments: 46",
@@ -261,5 +248,18 @@
     "heat": 0.0,
     "sourceName": "Hacker News社区",
     "sourceUrl": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"
+  },
+  {
+    "id": "2026-09-08-20",
+    "title": "LentEx: Generalizable Latent Entity Extraction via Synthetic Data and Instruction-Tuned LLMs",
+    "brief": "arXiv:2609.04511v1 Announce Type: new Abstract: Latent entity extraction (LEE) t…",
+    "summary": "arXiv:2609.04511v1 Announce Type: new Abstract: Latent entity extraction (LEE) tackles the challenge of identifying implicit, contextually inferred entities within free text-an area where traditional entity extraction methods fall short. In this paper, we introduce LentEx, a novel framework for late…",
+    "category": "📄学术论文",
+    "section": "📄 最新论文",
+    "reason": "最新预印本，未经同行评审",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "arXiv-cs.CL(官方)",
+    "sourceUrl": "https://arxiv.org/abs/2609.04511"
   }
 ]
