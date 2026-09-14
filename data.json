@@ -1,38 +1,25 @@
 [
   {
-    "dailyBrief": "今日最值得关注：由于对恶意应用的担忧，GPT2将不会发布（2019年） | DeepSeek V4.1 Flash：一次把自家旗舰送走的发布 | Perplexity信任GPT-6 Astra进行端到端系统"
+    "dailyBrief": "今日最值得关注：Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海 | Perplexity将端到端系统交由GPT-6 Astra全权负责 | 蚂蚁灵波开源三款 LingBot-World 2.0 世界模型：Small 参数 1.3B 面向消费级单卡 GPU 设计"
   },
   {
     "id": "2026-09-14-01",
-    "title": "由于对恶意应用的担忧，GPT2将不会发布（2019年）",
-    "brief": "OpenAI因担忧技术被滥用，在2019年决定不公开发布GPT2模型。",
-    "summary": "OpenAI因担忧技术被滥用，在2019年决定不公开发布GPT2模型。",
-    "category": "🔥新模型发布",
-    "section": "🏢 官方发布",
-    "reason": "全网关注度极高（热度 8.0）",
+    "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+    "brief": "新的大模型评测方法强调主动探测模型问题，而非依赖人工编写测试，追求全流程自动化和持续自我更新。",
+    "summary": "新的大模型评测方法强调主动探测模型问题，而非依赖人工编写测试，追求全流程自动化和持续自我更新。",
+    "category": "📝社区讨论",
+    "section": "📊 技术评测",
+    "reason": "网友围观中，讨论较热（热度 5.0）",
     "priority": "lead",
-    "heat": 8.0,
-    "sourceName": "Hacker News社区",
-    "sourceUrl": "https://openai.com/index/better-language-models"
+    "heat": 5.0,
+    "sourceName": "InfoQ中文",
+    "sourceUrl": "https://infoq.cn/article/0kYhxXxhOXhxGATe64ec"
   },
   {
     "id": "2026-09-14-02",
-    "title": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
-    "brief": "9 月 8 日下午，DeepSeek 在官方用户群里丢了一条不到 100 字的通知。没有发布会，没有预热海报，官网文档都没更新，就扔出一个模型名： 名字最后那串…",
-    "summary": "9 月 8 日下午，DeepSeek 在官方用户群里丢了一条不到 100 字的通知。没有发布会，没有预热海报，官网文档都没更新，就扔出一个模型名： 名字最后那串 0910 是它的保质期。48 小时后，（作者：码事漫谈）",
-    "category": "🔥新模型发布",
-    "section": "🏢 官方发布",
-    "reason": "网友围观中，讨论较热（热度 6.0）",
-    "priority": "important",
-    "heat": 6.0,
-    "sourceName": "掘金热榜",
-    "sourceUrl": "https://juejin.cn/post/7683722642071470130"
-  },
-  {
-    "id": "2026-09-14-03",
-    "title": "Perplexity信任GPT-6 Astra进行端到端系统",
-    "brief": "Perplexity让GPT-6 Astra接管了从沟通到软件修改和系统监控的全流程，人工检查频率大幅下降。",
-    "summary": "Perplexity让GPT-6 Astra接管了从沟通到软件修改和系统监控的全流程，人工检查频率大幅下降。",
+    "title": "Perplexity将端到端系统交由GPT-6 Astra全权负责。",
+    "brief": "Perplexity信任GPT-6 Astra模型用于全流程工作，包括撰写沟通内容、修改软件和监控系统，需要的人工干预比以往模型大幅减少。",
+    "summary": "Perplexity信任GPT-6 Astra模型用于全流程工作，包括撰写沟通内容、修改软件和监控系统，需要的人工干预比以往模型大幅减少。",
     "category": "📝社区讨论",
     "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
@@ -42,23 +29,23 @@
     "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
   },
   {
-    "id": "2026-09-14-04",
+    "id": "2026-09-14-03",
     "title": "蚂蚁灵波开源三款 LingBot-World 2.0 世界模型：Small 参数 1.3B 面向消费级单卡 GPU 设计",
-    "brief": "蚂蚁灵波开源了三款AI世界模型，其中小模型只有1.3B参数，普通消费级显卡就能跑。",
-    "summary": "蚂蚁灵波开源了三款AI世界模型，其中小模型只有1.3B参数，普通消费级显卡就能跑。",
+    "brief": "蚂蚁灵波开源了三款新AI模型，包括一个1.3B小参数版本。",
+    "summary": "蚂蚁灵波开源了三款新AI模型，包括一个1.3B小参数版本。",
     "category": "💻开源项目更新",
     "section": "🚀 开源生态",
     "reason": "开源生态动态，可上手/跟进",
-    "priority": "normal",
+    "priority": "important",
     "heat": 0.0,
     "sourceName": "IT之家",
     "sourceUrl": "https://ithome.com/1/001/863.htm"
   },
   {
-    "id": "2026-09-14-05",
+    "id": "2026-09-14-04",
     "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
-    "brief": "集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上…",
-    "summary": "集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "brief": "苹果新机首批卖光，OpenAI今年不上市了，Kimi升级开放长对话，Grok新版本推迟发布。",
+    "summary": "苹果新机首批卖光，OpenAI今年不上市了，Kimi升级开放长对话，Grok新版本推迟发布。",
     "category": "🔥新模型发布",
     "section": "💡 产品应用",
     "reason": "行业动态，速览即可",
@@ -68,10 +55,10 @@
     "sourceUrl": "https://ifanr.com/1679930"
   },
   {
-    "id": "2026-09-14-06",
+    "id": "2026-09-14-05",
     "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-    "brief": "亮源新创做了个导航模型，用大量仿真场景训练后，能零样本适配4种不同机器人。",
-    "summary": "亮源新创做了个导航模型，用大量仿真场景训练后，能零样本适配4种不同机器人。",
+    "brief": "一个AI导航模型通过2000多个真实场景训练，无需额外调整就能直接用于四种不同机器人。",
+    "summary": "一个AI导航模型通过2000多个真实场景训练，无需额外调整就能直接用于四种不同机器人。",
     "category": "📝社区讨论",
     "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
@@ -81,10 +68,10 @@
     "sourceUrl": "https://qbitai.com/2026/09/488672.html"
   },
   {
-    "id": "2026-09-14-07",
+    "id": "2026-09-14-06",
     "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-    "brief": "AI Agent用四种技术防止长任务中“忘了前面说过啥”和“偏离最初目标”，具体是控制信息量、压缩内容、记录进度和长期记忆。",
-    "summary": "AI Agent用四种技术防止长任务中“忘了前面说过啥”和“偏离最初目标”，具体是控制信息量、压缩内容、记录进度和长期记忆。",
+    "brief": "AI处理长期任务时，通过信息管理、简化、进度提醒和长期记忆四种方法，防止信息过多导致混乱和忘记目标。",
+    "summary": "AI处理长期任务时，通过信息管理、简化、进度提醒和长期记忆四种方法，防止信息过多导致混乱和忘记目标。",
     "category": "📝社区讨论",
     "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
@@ -94,17 +81,30 @@
     "sourceUrl": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
   },
   {
+    "id": "2026-09-14-07",
+    "title": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
+    "brief": "DeepSeek在用户群静默推出了V4.1 Flash新模型，未做任何宣传，且该模型仅限时使用48小时。",
+    "summary": "DeepSeek在用户群静默推出了V4.1 Flash新模型，未做任何宣传，且该模型仅限时使用48小时。",
+    "category": "🔥新模型发布",
+    "section": "🏢 官方发布",
+    "reason": "官方一手消息，可信度较高",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "掘金热榜",
+    "sourceUrl": "https://juejin.cn/post/7683722642071470130"
+  },
+  {
     "id": "2026-09-14-08",
-    "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
-    "brief": "现在测试AI模型不用人工设计考题了，改成让系统自动出题、自动评分，还能持续发现模型的新问题。",
-    "summary": "现在测试AI模型不用人工设计考题了，改成让系统自动出题、自动评分，还能持续发现模型的新问题。",
-    "category": "📝社区讨论",
-    "section": "📊 技术评测",
-    "reason": "第三方/社区实测，参考价值高",
+    "title": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+    "brief": "Java社区近期推出了多个新工具，涵盖性能优化、发布自动化、AI集成和云原生开发等方面，旨在提升开发效率。",
+    "summary": "Java社区近期推出了多个新工具，涵盖性能优化、发布自动化、AI集成和云原生开发等方面，旨在提升开发效率。",
+    "category": "🔥新模型发布",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
     "priority": "normal",
     "heat": 0.0,
     "sourceName": "InfoQ中文",
-    "sourceUrl": "https://infoq.cn/article/0kYhxXxhOXhxGATe64ec"
+    "sourceUrl": "https://infoq.cn/article/VIjBCuNElpg2H4bLywVc"
   },
   {
     "id": "2026-09-14-09",
@@ -122,8 +122,8 @@
   {
     "id": "2026-09-14-10",
     "title": "微软宣布将 xAI 旗下 Grok 模型整合进 Office 三件套，为用户提供 OpenAI 以外模型选择",
-    "brief": "微软把马斯克公司的Grok大模型装进了Word、Excel、PowerPoint，用户现在在Office里能用的AI选项更多了。",
-    "summary": "微软把马斯克公司的Grok大模型装进了Word、Excel、PowerPoint，用户现在在Office里能用的AI选项更多了。",
+    "brief": "微软在Office三件套中加入xAI的Grok模型，让用户除了OpenAI外还有其他AI选择。",
+    "summary": "微软在Office三件套中加入xAI的Grok模型，让用户除了OpenAI外还有其他AI选择。",
     "category": "📄学术论文",
     "section": "💡 产品应用",
     "reason": "行业动态，速览即可",
@@ -135,8 +135,8 @@
   {
     "id": "2026-09-14-11",
     "title": "🚀 2026 年 6 月 GitHub 十大热门项目排行榜 🔥",
-    "brief": "2026年6月GitHub热门开源项目集中在Agent感知、技能市场、视频生产、代码智能和并行编排这五个方向。",
-    "summary": "2026年6月GitHub热门开源项目集中在Agent感知、技能市场、视频生产、代码智能和并行编排这五个方向。",
+    "brief": "2026年6月GitHub热门开源项目主要围绕AI代理、技能市场、视频生成、代码工具和流程编排五个方向。",
+    "summary": "2026年6月GitHub热门开源项目主要围绕AI代理、技能市场、视频生成、代码工具和流程编排五个方向。",
     "category": "💻开源项目更新",
     "section": "🚀 开源生态",
     "reason": "开源生态动态，可上手/跟进",
