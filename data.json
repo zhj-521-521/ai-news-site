@@ -1,77 +1,51 @@
 [
   {
-    "dailyBrief": "今日最值得关注：OpenAI 发布 GPT-6 Sol 和 Luna，宣称成本更低且错误更少 | 阿里吴泳铭：千问将训练5-10万亿参数规模的新模型 | SpaceXAI 发布 Grok 4.7：跟 Claude Fable 同榜，价格砍到三分之一"
+    "dailyBrief": "今日最值得关注：Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型 | 推出GPT-6 Sol与Luna | 从生成内容到创造体验，多模态大模型如何改变内容生产？"
   },
   {
     "id": "2026-09-23-01",
-    "title": "OpenAI 发布 GPT-6 Sol 和 Luna，宣称成本更低且错误更少。",
-    "brief": "OpenAI即将推出两款新模型，据称这两款模型与Astra同源。",
-    "summary": "OpenAI即将推出两款新模型，据称这两款模型与Astra同源。",
-    "category": "🔥新模型发布",
+    "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+    "brief": "Claude Code升级了默认AI模型，换成更强的Opus 5.5，支持超长上下文，收费也更贵了。",
+    "summary": "Claude Code升级了默认AI模型，换成更强的Opus 5.5，支持超长上下文，收费也更贵了。",
+    "category": "💰降价/调价",
     "section": "🏢 官方发布",
-    "reason": "全网关注度极高（热度 9.0）",
+    "reason": "网友围观中，讨论较热（热度 7.0）",
     "priority": "lead",
-    "heat": 9.0,
-    "sourceName": "TechCrunch AI",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna"
+    "heat": 7.0,
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.news/items/cmucxceh40salroedruwhn0ee"
   },
   {
     "id": "2026-09-23-02",
-    "title": "阿里吴泳铭：千问将训练5-10万亿参数规模的新模型",
-    "brief": "阿里吴泳铭：千问将训练5-10万亿参数规模的新模型",
-    "summary": "阿里吴泳铭：千问将训练5-10万亿参数规模的新模型",
-    "category": "🔥新模型发布",
+    "title": "推出GPT-6 Sol与Luna",
+    "brief": "OpenAI发布了两个新模型Sol和Luna，主打日常使用场景，在性能和成本之间做了不同平衡。",
+    "summary": "OpenAI发布了两个新模型Sol和Luna，主打日常使用场景，在性能和成本之间做了不同平衡。",
+    "category": "📝社区讨论",
     "section": "🏢 官方发布",
-    "reason": "全网关注度极高（热度 9.0）",
+    "reason": "网友围观中，讨论较热（热度 7.0）",
     "priority": "important",
-    "heat": 9.0,
-    "sourceName": "InfoQ中文",
-    "sourceUrl": "https://infoq.cn/article/L9QQKUgo3DEjschVRKD9"
+    "heat": 7.0,
+    "sourceName": "OpenAI Official",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
   },
   {
     "id": "2026-09-23-03",
-    "title": "SpaceXAI 发布 Grok 4.7：跟 Claude Fable 同榜，价格砍到三分之一",
-    "brief": "xAI发布Grok 4.7，核心动作是降价对标Claude，价格战意味明显。",
-    "summary": "xAI发布Grok 4.7，核心动作是降价对标Claude，价格战意味明显。",
-    "category": "💰降价/调价",
-    "section": "🏢 官方发布",
-    "reason": "全网关注度极高（热度 8.0）",
+    "title": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+    "brief": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+    "summary": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+    "category": "📝社区讨论",
+    "section": "🗣️ 社区热点",
+    "reason": "网友围观中，讨论较热（热度 7.0）",
     "priority": "important",
-    "heat": 8.0,
-    "sourceName": "开源中国OSCHINA",
-    "sourceUrl": "https://oschina.net/news/502663/x-ai-grok-4-7"
+    "heat": 7.0,
+    "sourceName": "InfoQ中文",
+    "sourceUrl": "https://infoq.cn/article/rNHK14OsBl5CgSpMoTPq"
   },
   {
     "id": "2026-09-23-04",
-    "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-    "brief": "通义千问开源的Qwen-Image-2.1在图像编辑榜单中成为开源模型第一，成绩接近GPT-4。",
-    "summary": "通义千问开源的Qwen-Image-2.1在图像编辑榜单中成为开源模型第一，成绩接近GPT-4。",
-    "category": "🔥新模型发布",
-    "section": "🏢 官方发布",
-    "reason": "网友围观中，讨论较热（热度 7.0）",
-    "priority": "normal",
-    "heat": 7.0,
-    "sourceName": "AIHOT精选(paper)",
-    "sourceUrl": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r"
-  },
-  {
-    "id": "2026-09-23-05",
-    "title": "一种用于隐私保护编码脑电图脑机接口的新型深度学习方法及其临床大语言模型应用。",
-    "brief": "健康信息科学与系统",
-    "summary": "健康信息科学与系统",
-    "category": "📄学术论文",
-    "section": "💡 产品应用",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 4.0,
-    "sourceName": "EuropePMC论文(免费API)",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42428243"
-  },
-  {
-    "id": "2026-09-23-06",
-    "title": "早报｜GP-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
-    "brief": "第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot …",
-    "summary": "第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "title": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+    "brief": "GPT-6降价发布，有观点认为Siri不该取代人际关系；多款新手机搭载最新芯片和AI系统；有前小米高管创业研发具身AI。",
+    "summary": "GPT-6降价发布，有观点认为Siri不该取代人际关系；多款新手机搭载最新芯片和AI系统；有前小米高管创业研发具身AI。",
     "category": "💰降价/调价",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -81,23 +55,10 @@
     "sourceUrl": "https://ifanr.com/1681566"
   },
   {
-    "id": "2026-09-23-07",
-    "title": "为GPT-6提供更好的提示缓存",
-    "brief": "GPT-6升级了提示缓存，命中率更高，并增加了新工具与控制功能，能更快响应且节省成本。",
-    "summary": "GPT-6升级了提示缓存，命中率更高，并增加了新工具与控制功能，能更快响应且节省成本。",
-    "category": "📝社区讨论",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "OpenAI Official",
-    "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-  },
-  {
-    "id": "2026-09-23-08",
+    "id": "2026-09-23-05",
     "title": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%",
-    "brief": "OpenAI发布了GPT-6的两个新版本（Sol和Luna），API调用价格降低了50%。",
-    "summary": "OpenAI发布了GPT-6的两个新版本（Sol和Luna），API调用价格降低了50%。",
+    "brief": "OpenAI发布了更快更便宜的GPT-6新模型，API价格直降一半。",
+    "summary": "OpenAI发布了更快更便宜的GPT-6新模型，API价格直降一半。",
     "category": "💰降价/调价",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -107,10 +68,23 @@
     "sourceUrl": "https://ithome.com/1/006/001.htm"
   },
   {
-    "id": "2026-09-23-09",
-    "title": "NVIDIA Isaac ROS 5.0 推进自主智能开源机器人开发",
-    "brief": "要构建并部署能够在动态环境中进行感知、推理和行动的先进机器人应用，开发者需要全新的物理AI模型与工具。ROS开放框架是Open Robotics开发的开源项目，…",
-    "summary": "要构建并部署能够在动态环境中进行感知、推理和行动的先进机器人应用，开发者需要全新的物理AI模型与工具。ROS开放框架是Open Robotics开发的开源项目，致力于辅助人类构建机器人系统。今日发布的NVIDIA Isaac ROS 5.0是基于ROS构建的GPU加速软件包集合，[……]",
+    "id": "2026-09-23-06",
+    "title": "SpaceXAI 发布 Grok 4.7：跟 Claude Fable 同榜，价格砍到三分之一",
+    "brief": "xAI发布Grok 4.7，性能与Claude相当但价格仅需三分之一。",
+    "summary": "xAI发布Grok 4.7，性能与Claude相当但价格仅需三分之一。",
+    "category": "💰降价/调价",
+    "section": "🏢 官方发布",
+    "reason": "官方一手消息，可信度较高",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "开源中国OSCHINA",
+    "sourceUrl": "https://oschina.net/news/502663/x-ai-grok-4-7"
+  },
+  {
+    "id": "2026-09-23-07",
+    "title": "NVIDIA艾萨克ROS 5.0推进自主式开源机器人开发",
+    "brief": "为了构建和部署能够在动态环境中感知、推理和行动的复杂机器人应用，开发者需要全新的物理AI模型与工具。ROS开放框架是Open Robotics推出的一个助力人类…",
+    "summary": "为了构建和部署能够在动态环境中感知、推理和行动的复杂机器人应用，开发者需要全新的物理AI模型与工具。ROS开放框架是Open Robotics推出的一个助力人类构建机器人的项目。NVIDIA Isaac ROS 5.0——一套基于ROS构建的GPU加速软件包，今日在[...]发布。",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -120,20 +94,33 @@
     "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics"
   },
   {
-    "id": "2026-09-23-10",
-    "title": "发布HN：Coverage Cat（YC S22）——通过个人代理的伞式保险",
-    "brief": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friend…",
-    "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel h…",
+    "id": "2026-09-23-08",
+    "title": "展示HN：JevBench，一个面向类型化决策模型的可复现基准测试",
+    "brief": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know ho…",
+    "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects really perform in comparison. Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while bein…",
     "category": "💰降价/调价",
+    "section": "📊 技术评测",
+    "reason": "第三方/社区实测，参考价值高",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "Hacker News社区",
+    "sourceUrl": "https://benchmarkheaven.com/jev-models"
+  },
+  {
+    "id": "2026-09-23-09",
+    "title": "OpenAI推出GPT-6 Sol与Luna，宣称成本更低且错误更少",
+    "brief": "OpenAI正在推出两款新模型，据称与Astra技术同源。",
+    "summary": "OpenAI正在推出两款新模型，据称与Astra技术同源。",
+    "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
     "priority": "normal",
     "heat": 0.0,
-    "sourceName": "Hacker News社区",
-    "sourceUrl": "https://coveragecat.com/"
+    "sourceName": "TechCrunch AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna"
   },
   {
-    "id": "2026-09-23-11",
+    "id": "2026-09-23-10",
     "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
     "brief": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
     "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
@@ -146,7 +133,7 @@
     "sourceUrl": "https://qbitai.com/2026/09/494429.html"
   },
   {
-    "id": "2026-09-23-12",
+    "id": "2026-09-23-11",
     "title": "阿里巴巴下一代模型参数将扩大到 5-10 万亿规模",
     "brief": "阿里巴巴 CEO 吴泳铭在阿里云年度云栖大会上透露，该公司的千问（Qwen）团队正持续研究模型架构与数据优化，目标是完成更复杂、长周期任务，向人工智能超级智能（…",
     "summary": "阿里巴巴 CEO 吴泳铭在阿里云年度云栖大会上透露，该公司的千问（Qwen）团队正持续研究模型架构与数据优化，目标是完成更复杂、长周期任务，向人工智能超级智能（artificial superintelligence）前进。阿里巴巴的旗舰模型 Qwen 3.8 Max 有 2.4 万亿参数，正在训练中的 Qwen 4 将会继续扩大参数规模，未来的 Qwen 4.5 和 Qwen 5 系列将扩大至 5-10 万亿参数规模。吴泳铭表示，阿里巴巴自研的 M890 AI 超级节点能处理参数规模逾 2 万亿模型的推理任务，新一代的真武 V900 性能三倍于上一代的 M890，预计于 2027 年第一季度…",
@@ -159,7 +146,7 @@
     "sourceUrl": "https://solidot.org/story?sid=85450"
   },
   {
-    "id": "2026-09-23-13",
+    "id": "2026-09-23-12",
     "title": "为什么不推荐走Agent开发？",
     "brief": "大家好呀，我是飞鱼 最近有些读者在学 Agent 开发，问了我一些问题： 其实大家经常看到网上很多培训班都会说，后端要向 AI 转型： 我个人觉得，Agent …",
     "summary": "大家好呀，我是飞鱼 最近有些读者在学 Agent 开发，问了我一些问题： 其实大家经常看到网上很多培训班都会说，后端要向 AI 转型： 我个人觉得，Agent 开发这个职业想要有长期发展的前提是：你的（作者：程序员飞鱼）",
@@ -172,36 +159,36 @@
     "sourceUrl": "https://juejin.cn/post/7683457864929329204"
   },
   {
-    "id": "2026-09-23-14",
-    "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-    "brief": "Claude Opus 5.5 在AI评估中分数第一，同时价格降了20%。",
-    "summary": "Claude Opus 5.5 在AI评估中分数第一，同时价格降了20%。",
+    "id": "2026-09-23-13",
+    "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+    "brief": "Anthropic和OpenAI同时发布新版AI模型，价格都大幅降低，AI价格战再次打响。",
+    "summary": "Anthropic和OpenAI同时发布新版AI模型，价格都大幅降低，AI价格战再次打响。",
     "category": "💰降价/调价",
-    "section": "📊 技术评测",
-    "reason": "第三方/社区实测，参考价值高",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "AIHOT精选(paper)",
-    "sourceUrl": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5"
-  },
-  {
-    "id": "2026-09-23-15",
-    "title": "推出GPT-6 Sol和Luna",
-    "brief": "OpenAI推出两个新模型Sol和Luna，针对办公场景设计，提供不同性能与成本配置。",
-    "summary": "OpenAI推出两个新模型Sol和Luna，针对办公场景设计，提供不同性能与成本配置。",
-    "category": "📝社区讨论",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
     "priority": "normal",
     "heat": 0.0,
-    "sourceName": "OpenAI Official",
-    "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo"
   },
   {
-    "id": "2026-09-23-16",
+    "id": "2026-09-23-14",
+    "title": "为GPT-6提供更优的提示缓存",
+    "brief": "GPT-6的提示缓存更智能了，命中率更高，还增加了诊断和缓存控制工具，既省钱又省时间。",
+    "summary": "GPT-6的提示缓存更智能了，命中率更高，还增加了诊断和缓存控制工具，既省钱又省时间。",
+    "category": "📝社区讨论",
+    "section": "💡 产品应用",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "OpenAI Official",
+    "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+  },
+  {
+    "id": "2026-09-23-15",
     "title": "Meta 开源 Astryx：面向 Agent 的 React 设计系统",
-    "brief": "Meta开源了一个用于构建AI代理界面的React设计系统。",
-    "summary": "Meta开源了一个用于构建AI代理界面的React设计系统。",
+    "brief": "Meta 开源了 Astryx，一个帮助开发者为 AI 代理快速搭建用户界面的 React 组件库。",
+    "summary": "Meta 开源了 Astryx，一个帮助开发者为 AI 代理快速搭建用户界面的 React 组件库。",
     "category": "💻开源项目更新",
     "section": "🚀 开源生态",
     "reason": "开源生态动态，可上手/跟进",
@@ -211,10 +198,10 @@
     "sourceUrl": "https://infoq.cn/article/He6bUhlNIuPEa99GGRYC"
   },
   {
-    "id": "2026-09-23-17",
+    "id": "2026-09-23-16",
     "title": "Xiaomi MiMo-V2.6 系列正式发布，大规模扩展 RL 并全面开源",
-    "brief": "小米开源了MiMo-V2.6系列AI模型，包括Pro和Flash版本，并公开了6天Live RL训练的全部过程和代码。",
-    "summary": "小米开源了MiMo-V2.6系列AI模型，包括Pro和Flash版本，并公开了6天Live RL训练的全部过程和代码。",
+    "brief": "小米开源了MiMo-V2.6模型，不仅提供模型本身，还公开了训练过程、成本和技术报告，让其他开发者能直接复现。",
+    "summary": "小米开源了MiMo-V2.6模型，不仅提供模型本身，还公开了训练过程、成本和技术报告，让其他开发者能直接复现。",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -224,7 +211,7 @@
     "sourceUrl": "https://oschina.net/news/502662/xiaomi-mimo-v2-6"
   },
   {
-    "id": "2026-09-23-18",
+    "id": "2026-09-23-17",
     "title": "Anthropic 发布 Claude Opus 5.5 模型：性能媲美 Fable 5.1，运行成本比 Opus 5 低 40%",
     "brief": "IT之家 9 月 23 日消息，Anthropic 今日正式发布了 Claude Opus 5.5 模型，这是其全新 Claude 5.5 家族的首个模型， 宣…",
     "summary": "IT之家 9 月 23 日消息，Anthropic 今日正式发布了 Claude Opus 5.5 模型，这是其全新 Claude 5.5 家族的首个模型， 宣称在大多数工作上表现可媲美 Claude Fable 5.1，运行成本比 Opus 5 低 40% 。 IT之家从 Anthropic 公告获悉，具体来看，Claude Opus 5.5 模型有以下提升： 性能方面，Opus 5.5 比 Opus 5 有了很大提升，官方宣传早期测试者在最复杂的工作中看到性能大幅提升。一名测试人员在不到一天内完成了 68 万行代码迁移 —— 这一任务本应耗时数周。 Opus 5.5 擅长发现并修复软件中的…",
@@ -237,10 +224,10 @@
     "sourceUrl": "https://ithome.com/1/005/998.htm"
   },
   {
-    "id": "2026-09-23-19",
-    "title": "Anthropic发布Opus 5.5，价格更低且性能与Fable相当",
-    "brief": "Anthropic称之为迄今为止性能最强的模型。",
-    "summary": "Anthropic称之为迄今为止性能最强的模型。",
+    "id": "2026-09-23-18",
+    "title": "Anthropic公司发布Opus 5.5模型，定价更低且性能达同等级水平",
+    "brief": "Anthropic表示，这是其迄今测试过的性能最强模型。",
+    "summary": "Anthropic表示，这是其迄今测试过的性能最强模型。",
     "category": "💰降价/调价",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
@@ -250,7 +237,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance"
   },
   {
-    "id": "2026-09-23-20",
+    "id": "2026-09-23-19",
     "title": "Agent时代，CPU的价值该重估了",
     "brief": "CPU与GPU趋近1∶1",
     "summary": "CPU与GPU趋近1∶1",
@@ -261,5 +248,18 @@
     "heat": 0.0,
     "sourceName": "量子位(官方)",
     "sourceUrl": "https://qbitai.com/2026/09/494430.html"
+  },
+  {
+    "id": "2026-09-23-20",
+    "title": "新型CC，一款专为家庭打造的人工智能助手",
+    "brief": "文章链接： https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-e…",
+    "summary": "文章链接： https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ 评论链接： https://news.ycombinator.com/item?id=49809806 得分：25 评论数：19",
+    "category": "📄学术论文",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "Hacker News社区",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups"
   }
 ]
