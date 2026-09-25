@@ -1,8 +1,5 @@
 [
   {
-    "dailyBrief": "今日最值得关注：Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 | GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价 | 基于大型语言模型多智能体的免手持运动想象脑电图分类"
-  },
-  {
     "id": "2026-09-25-01",
     "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
     "brief": "Anthropic发布Claude Opus 5.5，编码场景成本显著下降，缓存读取降价60%，输入输出token降价20%。",
