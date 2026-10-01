@@ -1,8 +1,5 @@
 [
   {
-    "dailyBrief": "今日最值得关注：OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 | Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型 | OpenAI 发布 GPT‑6.1 Sol：智能水平接近 Astra、价格仅为其五分之一"
-  },
-  {
     "id": "2026-10-01-01",
     "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
     "brief": "OpenAI 推出 GPT-6.1 Sol，编码和电脑操作能力接近 GPT-6 Astra，但 token 价格只有其约五分之一，适合需要高性能但预算有限的场景。",
