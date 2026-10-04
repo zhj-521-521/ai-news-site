@@ -1,8 +1,5 @@
 [
   {
-    "dailyBrief": "今日最值得关注：LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 | 直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包 | 白嫖DeepSeek V4 Pro！免费无限用，还能接入Claude-Code"
-  },
-  {
     "id": "2026-10-04-01",
     "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
     "brief": "LLMYS 用 7 万条 ShareGPT 对话把 LLaMA 微调出 Vicuna-13B，成本约 300 美元，效果达 ChatGPT 九成，45% 问题不输 ChatGPT，代码和权重免费开放但仅限非商业用途。",
