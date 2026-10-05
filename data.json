@@ -1,12 +1,12 @@
 [
   {
-    "dailyBrief": "今日最值得关注：OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露 | 在消费级硬件（RTX 4090）上以100T/s的吞吐量运行Qwen 3.8 Flash Next（125B） | AI写长篇小说为什么30章必崩"
+    "dailyBrief": "今日最值得关注：OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露 | 在消费级硬件（RTX 4090）上运行 Qwen 3.8 Flash Next（125B），速度达到 100 token | 为什么不推荐走Agent开发？"
   },
   {
     "id": "2026-10-05-01",
     "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
-    "brief": "OpenAI 的 GPT-6 Sol 的系统提示词被泄露，总量约 30 万字。",
-    "summary": "OpenAI 的 GPT-6 Sol 的系统提示词被泄露，总量约 30 万字。",
+    "brief": "OpenAI的GPT-6 Sol Codex被攻破，30万字系统提示词全文泄露，大模型的安全防线又被突破。",
+    "summary": "OpenAI的GPT-6 Sol Codex被攻破，30万字系统提示词全文泄露，大模型的安全防线又被突破。",
     "category": "📝社区讨论",
     "section": "💡 产品应用",
     "reason": "全网关注度极高（热度 9.0）",
@@ -17,9 +17,9 @@
   },
   {
     "id": "2026-10-05-02",
-    "title": "在消费级硬件（RTX 4090）上以100T/s的吞吐量运行Qwen 3.8 Flash Next（125B）",
-    "brief": "开源工具Strata让125B的Qwen 3.8 Flash Next在单张RTX 4090上跑出100token/s，消费级显卡即可本地推理。",
-    "summary": "开源工具Strata让125B的Qwen 3.8 Flash Next在单张RTX 4090上跑出100token/s，消费级显卡即可本地推理。",
+    "title": "在消费级硬件（RTX 4090）上运行 Qwen 3.8 Flash Next（125B），速度达到 100 token/s",
+    "brief": "Strata框架能让125B参数的Qwen3.8 Flash模型在一张RTX 4090显卡上跑起来，速度约100 tokens/s，不用等大规模服务器。",
+    "summary": "Strata框架能让125B参数的Qwen3.8 Flash模型在一张RTX 4090显卡上跑起来，速度约100 tokens/s，不用等大规模服务器。",
     "category": "💻开源项目更新",
     "section": "🚀 开源生态",
     "reason": "全网关注度极高（热度 8.0）",
@@ -30,22 +30,35 @@
   },
   {
     "id": "2026-10-05-03",
-    "title": "AI写长篇小说为什么30章必崩",
-    "brief": "AI写长篇小说到30章左右容易崩，出现角色名字变来变去、伏笔忘了回收等问题，原因是上下文太长模型记不住，需要通过工程化手段（如角色卡、剧情大纲、外部状态管理）来解决连贯性问题。",
-    "summary": "AI写长篇小说到30章左右容易崩，出现角色名字变来变去、伏笔忘了回收等问题，原因是上下文太长模型记不住，需要通过工程化手段（如角色卡、剧情大纲、外部状态管理）来解决连贯性问题。",
+    "title": "为什么不推荐走Agent开发？",
+    "brief": "作者认为不建议走Agent开发这条路，原因是Agent开发岗位门槛低、可替代性强，且目前市场需求不稳定，难以支撑长期职业发展，建议后端开发者不要盲目跟风转型。",
+    "summary": "作者认为不建议走Agent开发这条路，原因是Agent开发岗位门槛低、可替代性强，且目前市场需求不稳定，难以支撑长期职业发展，建议后端开发者不要盲目跟风转型。",
     "category": "📝社区讨论",
     "section": "🗣️ 社区热点",
-    "reason": "网友围观中，讨论较热（热度 7.0）",
+    "reason": "网友围观中，讨论较热（热度 6.0）",
     "priority": "important",
-    "heat": 7.0,
+    "heat": 6.0,
     "sourceName": "掘金热榜",
-    "sourceUrl": "https://juejin.cn/post/7674372498315460658"
+    "sourceUrl": "https://juejin.cn/post/7683457864929329204"
   },
   {
     "id": "2026-10-05-04",
+    "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+    "brief": "Google 用可信执行环境做联邦学习，数据怎么匿名化别人能查证、代码能复现，比旧方法更私密也更准。Gboard 英文和日文输入法已在用，训练时间从一两个月缩到更快，用户数据不离开手机。",
+    "summary": "Google 用可信执行环境做联邦学习，数据怎么匿名化别人能查证、代码能复现，比旧方法更私密也更准。Gboard 英文和日文输入法已在用，训练时间从一两个月缩到更快，用户数据不离开手机。",
+    "category": "📄学术论文",
+    "section": "🏢 官方发布",
+    "reason": "官方一手消息，可信度较高",
+    "priority": "normal",
+    "heat": 4.0,
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.news/items/zfrloexd1672w3tse0utp4jgb"
+  },
+  {
+    "id": "2026-10-05-05",
     "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
-    "brief": "让 Agent 不靠临时聊天记录记忆，而是把企业数仓变成统一、可管理的共享语义层，供多个智能体复用。",
-    "summary": "让 Agent 不靠临时聊天记录记忆，而是把企业数仓变成统一、可管理的共享语义层，供多个智能体复用。",
+    "brief": "传统对话式 Agent 的记忆存在临时性、不可复用等问题，团队将企业数仓与语义层结合，构建共享的可治理记忆基础设施，让多个 Agent 复用统一数据语义，提升决策一致性。",
+    "summary": "传统对话式 Agent 的记忆存在临时性、不可复用等问题，团队将企业数仓与语义层结合，构建共享的可治理记忆基础设施，让多个 Agent 复用统一数据语义，提升决策一致性。",
     "category": "📝社区讨论",
     "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
@@ -55,42 +68,29 @@
     "sourceUrl": "https://infoq.cn/article/M4mgbKf4RDv5AKTwQvFH"
   },
   {
-    "id": "2026-10-05-05",
-    "title": "机器身份的社会语言学：大语言模型的人格与意识形态传播",
-    "brief": "机器身份的社会语言学：大语言模型的人格与意识形态传播",
-    "summary": "机器身份的社会语言学：大语言模型的人格与意识形态传播",
+    "id": "2026-10-05-06",
+    "title": "通过大型语言模型多智能体实现免手动运动想象脑电图分类。",
+    "brief": "大模型组成的多智能体用来分析脑电运动想象信号，比传统方法分类更准，免手操作的脑机接口因此更可行，成果发在神经科学方法期刊上。",
+    "summary": "大模型组成的多智能体用来分析脑电运动想象信号，比传统方法分类更准，免手操作的脑机接口因此更可行，成果发在神经科学方法期刊上。",
+    "category": "📄学术论文",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 3.0,
+    "sourceName": "EuropePMC论文(免费API)",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551560"
+  },
+  {
+    "id": "2026-10-05-07",
+    "title": "基于大语言模型的智能体式软件问题解决：综述",
+    "brief": "ACM Computing Surveys",
+    "summary": "ACM Computing Surveys",
     "category": "📄学术论文",
     "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
     "priority": "normal",
     "heat": 3.0,
     "sourceName": "OpenAlex论文(免费API)",
-    "sourceUrl": "https://openalex.org/W7164183113"
-  },
-  {
-    "id": "2026-10-05-06",
-    "title": "基于大语言模型多智能体的免手动运动想象脑电分类方法",
-    "brief": "用大模型多智能体自动解析运动想象脑电信号，实现不用动手就能完成的免手部脑电分类。",
-    "summary": "用大模型多智能体自动解析运动想象脑电信号，实现不用动手就能完成的免手部脑电分类。",
-    "category": "📄学术论文",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 2.0,
-    "sourceName": "EuropePMC论文(免费API)",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551560"
-  },
-  {
-    "id": "2026-10-05-07",
-    "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-    "brief": "Google 用硬件级加密环境（TEE）改造了联邦学习系统，让数据处理过程可验证、可审计，已用在 Gboard 键盘的下一词预测上，训练速度大幅缩短，隐私和准确率都更好了。",
-    "summary": "Google 用硬件级加密环境（TEE）改造了联邦学习系统，让数据处理过程可验证、可审计，已用在 Gboard 键盘的下一词预测上，训练速度大幅缩短，隐私和准确率都更好了。",
-    "category": "📄学术论文",
-    "section": "🏢 官方发布",
-    "reason": "官方一手消息，可信度较高",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "AIHOT精选(paper)",
-    "sourceUrl": "https://aihot.news/items/zfrloexd1672w3tse0utp4jgb"
+    "sourceUrl": "https://openalex.org/W7117808524"
   }
 ]
