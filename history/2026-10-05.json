@@ -1,8 +1,5 @@
 [
   {
-    "dailyBrief": "今日最值得关注：OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露 | 在消费级硬件（RTX 4090）上以100T/s的吞吐量运行Qwen 3.8 Flash Next（125B） | AI写长篇小说为什么30章必崩"
-  },
-  {
     "id": "2026-10-05-01",
     "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
     "brief": "OpenAI 的 GPT-6 Sol 的系统提示词被泄露，总量约 30 万字。",
